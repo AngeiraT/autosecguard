@@ -1,0 +1,17 @@
+[
+  {
+    "id": "t1",
+    "description": "Repeated SSH login failures are often the first sign of a brute force attack.",
+    "severity": "Medium"
+  },
+  {
+    "id": "t2",
+    "description": "Unauthorized root access can lead to full system compromise and data exfiltration.",
+    "severity": "High"
+  },
+  {
+    "id": "t3",
+    "description": "Normal system activity such as user logins or file transfers are typically low risk.",
+    "severity": "Low"
+  }
+]

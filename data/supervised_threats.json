@@ -1,0 +1,17 @@
+[
+  {
+    "log": "Unauthorized access to admin panel",
+    "severity": "High",
+    "ideal_action": 3
+  },
+  {
+    "log": "Login failed 5 times from 192.168.1.10",
+    "severity": "Medium",
+    "ideal_action": 2
+  },
+  {
+    "log": "User attempted XSS attack",
+    "severity": "Low",
+    "ideal_action": 1
+  }
+]
